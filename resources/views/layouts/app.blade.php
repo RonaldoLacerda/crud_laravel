@@ -22,8 +22,9 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
-                    <li class="nav-item"><a class="nav-link active" href="#">Usuários</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#">Cores</a></li>
+                    <!-- <li class="nav-item"><a class="nav-link active" href="#">Usuários</a></li> -->
+                    <!-- <li class="nav-item"><a class="nav-link" href="#">Cores</a></li> -->
+                    <!-- Ocultando pois não é necessário no momento -->
                 </ul>
             </div>
         </div>
